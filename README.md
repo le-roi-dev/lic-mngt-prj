@@ -1,29 +1,35 @@
 # License Management Project
 
-## React - Installation
+## Installation
+Here are the steps you need to follow to install the dependencies.
 
-You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along with it) and TailAdmin uses **Vite** for frontend tooling, to peform installation and building production version, please follow these steps from below:
+1. Download and extract the template from Next.js Templates.
 
-- Use terminal and navigate to the project root.
+2. After that **cd** into the template directory then run this command to install all the dependencies
 
-- Then run : <code>npm install</code>
+```
+npm install
+```
+or
 
-- Then run : <code>npm run dev</code>
+```
+yarn install
+```
 
-Now, in the browser go to <code>localhost:5173</code>
+3. Now run this command to start the developement server
 
-**For Production Build**
-Run : <code>npm run build</code>
+```
+npm run dev
+```
 
-Default build output directory: /dist
+or 
 
-This command will generate a dist as build folder in the root of your template that you can upload to your server.
-
-## Tons of React Tailwind Components for Dashboard
-React and Tailwind are two popular technologies that have taken the web development world by storm. React is a JavaScript library for building user interfaces, while Tailwind is a utility-first CSS framework that makes it easy to style web applications.
-
+```
+yarn dev
+```
 
 
 ## Update Logs
 
-### Version 1.0.0 - Initial Release - [Jul 16, 2024]
+### Version 0.1.0 - Initial Release - [Jul 16, 2024]
+
