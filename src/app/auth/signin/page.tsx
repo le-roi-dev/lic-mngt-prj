@@ -21,7 +21,7 @@ const SignIn: React.FC = () => {
                   <h2 className="text-2xl font-bold text-black">
                     Sign In
                   </h2>
-                  <Link href={'/auth/signup'} className='text-sm text-primary font-medium'>Don't have any account</Link>
+                  <Link href={'/auth/signup'} className='text-sm text-primary font-medium'>Don&apos;t have any account</Link>
                 </div>
                 <form>
                   <div className="mb-4 text-sm">
